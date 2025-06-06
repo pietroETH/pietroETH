@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pietro Marino</h1>
-<h4 align="center">I am currently working as a crypto private investor with 8 years of experience and Solidity Smart Contracts Developer with a passion for blockchain technology. I have experience in developing DApps and crypto trading platform deploying smart contracts on the Ethereum network. I am highly skilled in writing secure, efficient, and reliable code that meets industry standards. My goal is to create innovative solutions that will revolutionize the way people interact with blockchain technology. I would love to exchange a investment idean.</h4>
+<h4 align="center">I am currently working as a crypto private investor with 8 years of experience and Solidity Smart Contracts Developer with a passion for blockchain technology. I have experience in developing DApps and crypto trading platform deploying smart contracts on the Ethereum network. I am skilled in writing secure, efficient, and reliable code that meets industry standards. My goal is to create innovative solutions that will revolutionize the way people interact with blockchain technology. Would love to exchange a idea.</h4>
 
 - 🔭 I’m currently working on **Blockchain Decentralized Exchange** and **Crypto Trading Platform**.
 
-- 🌱 I’m currently investing **Real Estate Platform**
+- 🌱 I’m currently investing on **Real Estate Platform**
 
 - 👯 I’m looking to hire candidates on **DApps and EVM based projects**
 
